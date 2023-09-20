@@ -1,0 +1,9 @@
+Starting as a Junior QA Engineer, you will begin with testing 
+small project parts, study QA methods and principles, 
+acquire necessary technical skills and become an IT professional. 
+You will get the “field” knowledge and experience with Windows 
+and Linux OS, VMware, vSphere and Microsoft Hyper-V virtualization 
+platforms, public clouds like Amazon and Azure, and much more.
+
+Challenging tasks and the informal working environment in 
+our QA Teams provide for rapid professional growth.
